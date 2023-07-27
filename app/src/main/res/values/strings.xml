@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Selfmade pizza</string>
+    <string name="pizzaConstruct">Конструктор для піци</string>
+    <string name="enterName">Введіть назву піци (Чотири сири, пепероні, тощо)</string>
+    <string name="Name">Назва піци</string>
+    <string name="ButtonName">OK</string>
+    <string name="checkBoxCard">Карта</string>
+    <string name="checkBoxCash">Готівка</string>
+    <string name="checkBoxCupon">Подарунковий купон</string>
+    <string name="checkBoxSmall">35 см</string>
+    <string name="checkBoxMedium">45 см</string>
+    <string name="checkBoxBig">60 см</string>
+    <string name="paymentType">Спосіб оплати</string>
+    <string name="size">Діаметр піци</string>
+    <string name="Amount">Кількість піц</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+</resources>
